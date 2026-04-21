@@ -11,6 +11,17 @@ Detta projekt är en Scrum Board byggd i React med Firebase Firestore.
 
 ---
 
+##  Screenshots
+
+###  Scrum Board
+![Scrum Board](src/assets/scrumboard.png)
+
+###  Firebase Database
+![Firebase DB 1](src/assets/firebasedb1.png)
+![Firebase DB 2](src/assets/firebasedb2.png)
+
+---
+
 ## Funktionalitet
 - Skapa team members (UX, frontend, backend)
 - Skapa uppgifter
